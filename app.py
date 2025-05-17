@@ -220,6 +220,6 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #64748b; padding: 1rem;'>
-    <div>© 2024 Human360 Analyzer • Built with ❤️ by Faizan Abbasi</div>
+    <div>© 2025 Human360 Analyzer • Built with ❤️ by Faizan Abbasi</div>
 </div>
 """, unsafe_allow_html=True)
